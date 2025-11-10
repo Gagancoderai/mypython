@@ -1,0 +1,7 @@
+side1= float(input("enter the sied1 of triangle:"))
+side2= float(input("enter the side2 of triangle:"))
+side3= float(input("enter the side3 of triangle:"))
+perimeter= side1+side2+side3
+print(perimeter)
+name=input(("enter the name"))
+section = input(("enter the section"))
