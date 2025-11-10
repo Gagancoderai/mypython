@@ -1,0 +1,7 @@
+principal = float(input("enter the principal amount:"))
+rate = float(input("enter the rate of interst:"))
+time = float(input("enetr the time in year:"))
+interest = (principal * rate * time)/100
+print(f"the simple interest is{interest}")
+name=input(("enter the name"))
+section = input(("enter the section")) 
