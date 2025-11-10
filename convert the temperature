@@ -1,0 +1,5 @@
+celcius = float(input("enter the tempurature in celcius:"))
+farenheit = (celcius*9/5)+32
+print(f"{celcius}ºc is equal to {farenheit}ºF")
+name=input(("enter the name:"))
+section = input(("enter the section:")) 
