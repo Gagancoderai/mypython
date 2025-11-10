@@ -1,0 +1,6 @@
+num = float(input("enter the num:"))
+square = num**num
+cube = num**3
+print(square,cube)
+name=input(("enter the name"))
+section = input(("enter the section"))
