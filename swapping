@@ -1,0 +1,9 @@
+a = int(input("enter the first number(a):"))
+b = int(input("enter the second number(b):"))
+print(f"\n before swapping: a={a},b={b}")
+temp = a
+a = b
+b =temp
+print(f"after swapping:a{a} b={b}")
+name=input(("enter the name"))
+section = input(("enter the section")) 
