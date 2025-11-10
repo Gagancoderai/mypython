@@ -1,0 +1,6 @@
+num1 = int(input("enter the  first number:"))
+num2 = int(input("enter the second number:"))
+result = num1+num2
+print("the sum is:", result)
+name=input(("enter the name"))
+section = input(("enter the section"))
