@@ -1,0 +1,11 @@
+def userdetalis(a,b):
+    name = input("enter the name:")
+    a = int(input("enter the age:"))
+    b = int(input("enter the roll number:"))
+    return a+b, a*b
+userdetalis(17,12)
+OUT PUT
+enter the name: Gagan Gowda
+enter the age:17
+enter the roll number:12
+(29, 204)
